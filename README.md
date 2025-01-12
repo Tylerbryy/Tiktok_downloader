@@ -1,16 +1,33 @@
 # TikTok Video Downloader
 
-A Python script to download videos from TikTok profiles using Playwright and aiohttp.
+<div align="center">
 
-## Features
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-- Downloads all videos from a TikTok profile
-- Handles rate limiting and retries
-- Shows progress with rich console output
-- Concurrent downloads for better performance
-- Auto-scrolling to load all videos
 
-## Installation
+
+Fast and efficient TikTok video downloader with concurrent processing and elegant progress display.
+
+[Key Features](#features) •
+[Quick Start](#installation) •
+[Usage](#usage) •
+[Contributing](#contributing)
+
+---
+
+</div>
+
+## ✨ Features
+
+- 🚀 **Fast Downloads** - Concurrent processing for maximum speed
+- 🔄 **Smart Retries** - Handles rate limiting automatically
+- 📊 **Live Progress** - Beautiful console output with rich
+- 🎯 **Profile Targeting** - Download entire TikTok profiles
+- 🔍 **Auto-Discovery** - Smart scrolling to find all videos
+
+## 🚀 Installation
 
 1. Clone the repository:
     ```sh
@@ -28,7 +45,27 @@ A Python script to download videos from TikTok profiles using Playwright and aio
     playwright install
     ```
 
-4. Run the script:
-    ```sh
-    python main.py
-    ```
+## 💻 Usage
+
+Run the script:
+```sh
+python main.py
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+<div align="center">
+Made with ❤️ by <a href="https://github.com/Tylerbryy">Tylerbryy</a>
+</div>
