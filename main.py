@@ -287,7 +287,7 @@ class TikTokDownloader:
                             failed += 1
         
         console.print(f"\n[bold green]Download Complete![/bold green]")
-        console.print(f"✅ Successfully downloaded: {downloaded}")
+
 
 
 async def main():
