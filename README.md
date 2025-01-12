@@ -14,8 +14,8 @@ A Python script to download videos from TikTok profiles using Playwright and aio
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/Tylerbryy/tiktok_Download.git
+    cd tiktok_Download
     ```
 
 2. Install the required Python packages:
